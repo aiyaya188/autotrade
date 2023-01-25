@@ -1,0 +1,17 @@
+#忽略所有文件和目录
+*
+!.gitignore
+!*.go
+!go.mod
+!Makefile
+!README.md
+!config.toml
+!main.config.toml
+!deploy.config.toml
+!*.conf
+!auth_model.conf
+!service
+!*.json
+!*.yaml
+!*.
+!*/
